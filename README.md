@@ -7,3 +7,6 @@
 * Hyperparameter tunning is done on Decision Tree Regressor to find optimal parameters for the model using RandomSearchCV
 * Optimal parameters are used to reach the best Decision Tree Reressor model
 * Out of two selected models of Linear Regression and of Decision Tree Regreesor, the best performing model is found to be of a Decision Tree Regressor.
+
+![](https://github.com/wasimhassanshah/Wasim_Shah_Portfolio/blob/main/images/Project1a.png)
+![](https://github.com/wasimhassanshah/Wasim_Shah_Portfolio/blob/main/images/Project1b.png)
