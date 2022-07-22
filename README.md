@@ -1,6 +1,6 @@
 ## Wasim_Shah_Portfolio 
 
-# Project 1: House Price Predictor : Project Overview
+# [Project 1: House Price Predictor : Project Overview](https://github.com/wasimhassanshah/Predicting-House-Prices-in-Python)
 * Applied the Machine Laerning Algorithms : Linear Regression and Decision Tree Regression to predict House prices 
 * After Exploratory Data Analysis, feature engineering is done to extract useful features to improve the accuracy of the model
 * Significant features are used to train the linear regression model, and the best model is selected accordingly.
