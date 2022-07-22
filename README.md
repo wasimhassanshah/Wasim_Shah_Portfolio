@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Wasim_Shah_Portfolio 
 
-You can use the [editor on GitHub](https://github.com/wasimhassanshah/Wasim_Shah_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wasimhassanshah/Wasim_Shah_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Project 1: House Price Predictor : Project Overview
+* Applied the Machine Laerning Algorithms : Linear Regression and Decision Tree Regression to predict House prices 
+* After Exploratory Data Analysis, feature engineering is done to extract useful features to improve the accuracy of the model
+* Significant features are used to train the linear regression model, and the best model is selected accordingly.
+* Hyperparameter tunning is done on Decision Tree Regressor to find optimal parameters for the model using RandomSearchCV
+* Optimal parameters are used to reach the best Decision Tree Reressor model
+* Out of two selected models of Linear Regression and of Decision Tree Regreesor, the best performing model is found to be of a Decision Tree Regressor.
