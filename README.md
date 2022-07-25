@@ -20,3 +20,9 @@
 ![](/images/PCA.png)
 ![](/images/k1.png)
 ![](/images/clusters.png)
+
+## [Project 3: Electricity-Consumption-Forcasting-using-Deep-Learning LSTM](https://github.com/wasimhassanshah/energy-prediction-model)
+* Applied Data Analysis and Visualizations on the available dataset
+* Predicted trend of future energy consumption using LSTM
+* Predicted values of trained model are almost closed to actual values
+![](/images/Energypredictvsactual.png)
