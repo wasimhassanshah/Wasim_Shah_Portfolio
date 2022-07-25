@@ -10,3 +10,13 @@
 
 ![](/images/Project1a.png)
 ![](/images/Project1b.png)
+
+
+## [Project 2: Customer-Segmentation-Kmeans-Clustering](https://github.com/wasimhassanshah/Customer-Segmentation-Kmeans-Clustering)
+* Performed an exploratory analysis on the dataset.
+* Applied Principal Component Analysis for Dimensionality Reduction
+* Applied K-means clustering algorithm in order to segment customers.
+* Customer Segmentation : Dividing customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
+![](/images/PCA.png)
+![](/images/k1.png)
+![](/images/clusters.png)
