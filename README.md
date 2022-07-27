@@ -27,10 +27,20 @@
 * Predicted values of trained model are almost closed to actual values
 ![](/images/Energypredictvsactual.png)
 
+## [Project 4: Cutomer-churn-Classification-model-ANN-LR](https://github.com/wasimhassanshah/Cutomer-churn-ANN-LR)
+* buildt a deep learning model ANN and a Supervised Learning Model Logistic Regression to predict the churn and comparing both models
+* Cleaned the dataset to remove the missing variables
+* Hot encoded several categorical variables.
+* Explored the correlation between several features and the target variable.
+* Used a correlation matrix to explore if there was any correlation between different features.
+* fit a logistic regression model using all of the features.The accuracy score of this model is found to be 0.79. Then I fit ANN model. .The accuracy score of this model is found to be 0.78. Here Logistic Regression Model obtained the best accuracy, recall, F1 scores, and the best precision score, making it the most reliable machine learning classifier for this data set.
+![](/images/Cchurn.png)
+![](/images/ANNCM.png)
+![](/images/LRCM.png)
 
 
 
-## [Project 4: Stock-Price-Prediction-Model](https://github.com/wasimhassanshah/Stock-Price-Prediction-Model)
+## [Project 5: Stock-Price-Prediction-Model](https://github.com/wasimhassanshah/Stock-Price-Prediction-Model)
 * Built a model to predict the future closing price of Apple’s Stock
 ![](/images/StockPriceDTR.png)
 ![](/images/StockPriceLR.png)
