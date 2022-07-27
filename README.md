@@ -26,3 +26,11 @@
 * Predicted trend of future energy consumption using LSTM
 * Predicted values of trained model are almost closed to actual values
 ![](/images/Energypredictvsactual.png)
+
+
+
+
+## [Project 4: Stock-Price-Prediction-Model](https://github.com/wasimhassanshah/Stock-Price-Prediction-Model)
+* Built a model to predict the future closing price of Apple’s Stock
+![](/images/StockPriceDTR.png)
+![](/images/StockPriceLR.png)
