@@ -1,7 +1,7 @@
 ## Wasim_Shah_Portfolio 
 
-# [Project 1: House Price Predictor : Project Overview](https://github.com/wasimhassanshah/Predicting-House-Prices-in-Python)
-* Applied the Machine Laerning Algorithms : Linear Regression and Decision Tree Regression to predict House prices 
+# [Project 1: House Price Predictor-Regression-Model : Project Overview](https://github.com/wasimhassanshah/Predicting-House-Prices-in-Python)
+* Applied the Machine Learning Regression Algorithms : Linear Regression and Decision Tree Regression to predict House prices 
 * After Exploratory Data Analysis, feature engineering is done to extract useful features to improve the accuracy of the model
 * Significant features are used to train the linear regression model, and the best model is selected accordingly.
 * Hyperparameter tunning is done on Decision Tree Regressor to find optimal parameters for the model using RandomSearchCV
@@ -12,7 +12,7 @@
 ![](/images/Project1b.png)
 
 
-## [Project 2: Customer-Segmentation-Kmeans-Clustering](https://github.com/wasimhassanshah/Customer-Segmentation-Kmeans-Clustering)
+## [Project 2: Customer-Segmentation-Kmeans-Clustering-Model](https://github.com/wasimhassanshah/Customer-Segmentation-Kmeans-Clustering)
 * Performed an exploratory analysis on the dataset.
 * Applied Principal Component Analysis for Dimensionality Reduction
 * Applied K-means clustering algorithm in order to segment customers.
@@ -21,13 +21,13 @@
 ![](/images/k1.png)
 ![](/images/clusters.png)
 
-## [Project 3: Electricity-Consumption-Forcasting-using-Deep-Learning LSTM](https://github.com/wasimhassanshah/energy-prediction-model)
+## [Project 3: Electricity-Consumption-Forcasting-using-Deep-Learning-LSTM](https://github.com/wasimhassanshah/energy-prediction-model)
 * Applied Data Analysis and Visualizations on the available dataset
 * Predicted trend of future energy consumption using LSTM
 * Predicted values of trained model are almost closed to actual values
 ![](/images/Energypredictvsactual.png)
 
-## [Project 4: Cutomer-churn-Classification-model-ANN-LR](https://github.com/wasimhassanshah/Cutomer-churn-ANN-LR)
+## [Project 4: Cutomer-churn-Classification-Model-ANN-LR](https://github.com/wasimhassanshah/Cutomer-churn-ANN-LR)
 * buildt a deep learning model ANN and a Supervised Learning Model Logistic Regression to predict the churn and comparing both models
 * Cleaned the dataset to remove the missing variables
 * Hot encoded several categorical variables.
@@ -39,8 +39,19 @@
 ![](/images/LRCM.png)
 
 
-
 ## [Project 5: Stock-Price-Prediction-Model](https://github.com/wasimhassanshah/Stock-Price-Prediction-Model)
 * Built a model to predict the future closing price of Apple’s Stock
 ![](/images/StockPriceDTR.png)
 ![](/images/StockPriceLR.png)
+
+
+## [Project 5: Employee-Turnover-Classification-Model](https://github.com/wasimhassanshah/Employee-Turnover-Prediction-Model)
+* Encoded categorical features using dummy variables.
+* Performed exploratory data analysis to find the correlation between the features using seaborn and matplotlib library.
+* Performed feature elimination to compare models such as Logistic Regression and Random Forest Classifier
+* Fit the model
+* Used Receiver operating characteristic (ROC) analysis to analysed the performance of both classifiers
+* Showed the most important features which will influence whether an employee will leave the company 
+![](/images/EPRF.png)
+![](/images/EPLR.png)
+![](/images/EPTRN.png)
