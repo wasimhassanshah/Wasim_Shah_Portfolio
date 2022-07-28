@@ -45,7 +45,7 @@
 ![](/images/StockPriceLR.png)
 
 
-## [Project 5: Employee-Turnover-Classification-Model](https://github.com/wasimhassanshah/Employee-Turnover-Prediction-Model)
+## [Project 6: Employee-Turnover-Classification-Model](https://github.com/wasimhassanshah/Employee-Turnover-Prediction-Model)
 * Encoded categorical features using dummy variables.
 * Performed exploratory data analysis to find the correlation between the features using seaborn and matplotlib library.
 * Performed feature elimination to compare models such as Logistic Regression and Random Forest Classifier
