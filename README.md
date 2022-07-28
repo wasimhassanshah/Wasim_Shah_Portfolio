@@ -50,8 +50,8 @@
 * Performed exploratory data analysis to find the correlation between the features using seaborn and matplotlib library.
 * Performed feature elimination to compare models such as Logistic Regression and Random Forest Classifier
 * Fit the model
-* Used Receiver operating characteristic (ROC) analysis to analysed the performance of both classifiers
-* Showed the most important features which will influence whether an employee will leave the company 
+* Used Receiver operating characteristic (ROC) analysis to analyse the performance of both classifiers
+* Showed the most important features which will influence whether an employee will leave the company or not 
 ![](/images/EPRF.png)
 ![](/images/EPLR.png)
 ![](/images/EPTRN.png)
