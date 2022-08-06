@@ -39,10 +39,19 @@
 ![](/images/LRCM.png)
 
 
-## [Project 5: Stock-Price-Prediction-Model](https://github.com/wasimhassanshah/Stock-Price-Prediction-Model)
-* Built a model to predict the future closing price of Apple’s Stock
-![](/images/StockPriceDTR.png)
-![](/images/StockPriceLR.png)
+## [Project 5: Stock_Price_Prediction_RNN](https://github.com/wasimhassanshah/Stock_Price_Prediction_RNN)
+* Purpose of this project is to build stock price predictor model to help the quantitative traders to take calculated decisions. 
+* In this project,Closing price is used for prediction.
+* Three sequential LSTM layers have been stacked together and one dense layer is used to build the RNN model using Keras deep learning library.
+* Results
+- Original data close price plot
+![](/images/OriginalColsepricevalue.png)
+- After the training the fitted curve with original stock price:
+![](/images/Orgnaltrainpredct%20LSTM%20Stock%20a.png)
+- Future 30 days Prediction of Close price:
+![](images/30days%20pedct%20LSTM%20Stock.png)
+- Final plot Original + Predicted for 30 days Close price value of stocks
+![](/images/Final%20LSTM%20Predct%20Stock.png)
 
 
 ## [Project 6: Employee-Turnover-Classification-Model](https://github.com/wasimhassanshah/Employee-Turnover-Prediction-Model)
@@ -55,3 +64,8 @@
 ![](/images/EPRF.png)
 ![](/images/EPLR.png)
 ![](/images/EPTRN.png)
+
+
+
+
+
