@@ -48,7 +48,7 @@
 ![](/images/OriginalColsepricevalue.png)
 - After the training the fitted curve with original stock price:
 ![](/images/OrgnaltrainpredctLSTMStock.png)
-- Future 30 days Prediction of Close price:
+- Future 30 days Prediction of Close price
 ![](/images/30dayspedctLSTMStock.png)
 - Final plot Original + Predicted for 30 days Close price value of stocks
 ![](/images/FinalLSTMPredctStock.png)
