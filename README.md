@@ -7,8 +7,7 @@
 * Hyperparameter tunning is done on Decision Tree Regressor, Random Forest Regressor, and XGboost Regressor to find optimal parameters for the model using RandomSearchCV
 * Optimal parameters are used to reach the best Decision Tree, Random Forest and XGboost Regressor model
 * Out of four , the best performing model is found to be of a XG boost Regressor.
-![](/images/Project1a.png)
-![](/images/Project1b.png)
+![](images/pics.PNG)
 
 
 ## [Project 2: Customer-Segmentation-Kmeans-Clustering-Model](https://github.com/wasimhassanshah/Customer-Segmentation-Kmeans-Clustering)
