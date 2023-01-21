@@ -58,7 +58,7 @@
 * Performed feature elimination to compare models such as Logistic Regression and Random Forest Classifier
 * Fit the model
 * Used Receiver operating characteristic (ROC) analysis to analyse the performance of both classifiers
-* Showed the most important features which will influence whether an employee will leave the company or not 
+* Showed the most important features which are going to influence whether an employee will leave the company or not 
 ![](/images/EPRF.png)
 ![](/images/EPLR.png)
 ![](/images/EPTRN.png)
