@@ -22,7 +22,7 @@
 ## [Project 3: Electricity-Consumption-Forcasting-using-Deep-Learning-LSTM](https://github.com/wasimhassanshah/energy-prediction-model)
 * Applied Data Analysis and Visualizations on the available dataset
 * Predicted trend of future energy consumption using LSTM
-* Predicted values of trained model are almost closed to actual values
+* Predicted values of trained model (red line) are almost closed to actual values (green line)
 ![](/images/Energypredictvsactual.png)
 
 ## [Project 4: Cutomer-churn-Classification-Model-ANN-LR](https://github.com/wasimhassanshah/Cutomer-churn-ANN-LR)
